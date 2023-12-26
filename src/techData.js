@@ -1,6 +1,6 @@
-import laptop from "./icon/laptop.jpg"
-import pc from "./icon/pc.jpg"
-import pc2 from "./icon/pc2.jpg"
+import laptop from "./icon/laptop.jpg";
+import pc from "./icon/pc.jpg";
+import pc2 from "./icon/pc2.jpg";
 
 const techData = [{ title: "Lenovo - Chromebook 3 11 Chromebook - AMD A6 - 4GB Memory - 32GB eMMC Flash Memory - Onyx Black", price: 97.00, img: laptop, id: 1 },
 { title: "ASUS - 17.3 Chromebook - Intel Celeron N4500 - 4GB Memory - 32GB eMMC - Transparent Silver", price: 199.00, img: laptop, id: 2 },
